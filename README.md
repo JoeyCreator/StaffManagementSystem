@@ -1,2 +1,0 @@
-# StaffManagementSystem
-Created with CodeSandbox
